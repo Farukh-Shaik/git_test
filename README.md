@@ -1,0 +1,1 @@
+This is Farukh's first git project
